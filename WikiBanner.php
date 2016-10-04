@@ -1,6 +1,6 @@
 <?php
 
-$wgExtensionCredits[$type][] = array(
+$wgExtensionCredits['other'][] = array(
         'path' => __FILE__,
         'name' => "WikiBanner",
         'description' => "Allows top and bottom banners to be added to the wiki as configured in the LocalSettings.php file.",
