@@ -36,10 +36,6 @@
  * @license https://opensource.org/licenses/MIT The MIT License (MIT)
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) {
-	die();
-}
-
 $wgExtensionCredits ['other'][] = array(
         'path' => __FILE__,
         'name' => "WikiBanner",
