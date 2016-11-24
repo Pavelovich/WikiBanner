@@ -1,0 +1,13 @@
+{
+	"name": "WikiBanner",
+	"version": 1.1,
+	"author": "maelstr0m",
+	"url": "http://www.mediawiki.org/wiki/Extension:WikiBanner",
+	"description": "Allows top and bottom banners to be added to the wiki as configured in the LocalSettings.php file.",
+	"type": "other",
+	"config": {
+		"TopBannerCode": "<!-- No Top Banner -->",
+		"BottomBannerCode": "<!-- No Bottom Banner -->"
+	},
+	"manifest_version": 1
+}
